@@ -1,0 +1,6 @@
+-   id: check-unittest-super
+    name: Check unittest super calls
+    description: Python unittest setUp tearDown super call checker
+    entry: check-unittest-super
+    language: python
+    types: [python]

@@ -1,0 +1,16 @@
+doc/build
+*.pyc
+*.swp
+*.orig
+build
+tmp
+dist
+.venv
+.venv3
+.coverage
+.DS_Store
+.buildinfo
+*.egg-info
+*.db
+config.py
+.pytest_cache/.mypy_cache
